@@ -1,0 +1,1 @@
+{"mappings":"AAEAA,QAAQC,IADE,IAEVD,QAAQC,IAFE,IAGVD,QAAQC,IAHE","sources":["src/js/02-video.js"],"sourcesContent":["\nconst a = 5 + 10;\nconsole.log(a)\nconsole.log(a)\nconsole.log(a)"],"names":["console","log"],"version":3,"file":"02-video.e1136b7c.js.map"}
